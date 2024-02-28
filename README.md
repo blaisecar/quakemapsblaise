@@ -10,6 +10,8 @@ The skywalk can be used to drop into the center and claim the health pickup, at 
 
 
 GREYBOX 
+
+
 My map was vaguely based upon the sketch that I did last week.
 
 ![image](https://github.com/blaisecar/quakemapsblaise/assets/153130544/73d86313-2ad5-4b9a-9186-a7475b226699)
