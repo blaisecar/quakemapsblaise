@@ -26,6 +26,9 @@ big room.
 There are still some issues regarding flow that I want to address, along with some weird leaks and other issues, possibly some new routes and staircases,
 and of course cool lighting and effects. I am excited to see how my map continues, I have been very happy with it so far.
 
+https://www.youtube.com/watch?v=gVLGbJU4Pdo 
+The youtube video exploring the map.
+
 METRICS
 
 I personally struggled with this section. The measurment system was a bit confusing to me so I played a lot of the design by ear. May be something I have to change in the future.
