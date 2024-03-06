@@ -38,3 +38,21 @@ Things I should fix are as following
 - Map needs better flow, more places to filter into
 - Better gun and ammo placements
 - More halls, more cover
+
+  GREYBOX ITERATION
+
+  In response to feedback, I decided to numerous things. Firstly, I made everything more easy to traverse. Wonky staircases and leaks have been fixed, and cool trains have been added as well!
+  ![image](https://github.com/blaisecar/quakemapsblaise/assets/153130544/07ef068b-f1aa-4e27-bae0-f0696439b4ce)
+  Cool train that takes you up to the upper level, easier than the long staircase.
+
+  More rooms were also added, as well as many connections between existing rooms. These connected rooms here make a segway between 3 parts of the map, and also allow for another alternate way to get to the
+  top of the map, as to avoid players pooling at the bottom.
+  ![image](https://github.com/blaisecar/quakemapsblaise/assets/153130544/735edd5a-0869-4d54-9064-bb80193743d1)
+
+More improvements were also made to quality of life stuff. 
+![image](https://github.com/blaisecar/quakemapsblaise/assets/153130544/2c827480-edaf-406b-a1b4-d1401afb2aae)
+The parkour now feels better!
+
+Other things such as weirdly placed lava were removed, drops that hurt you now have health pickups where you land, more cover has been added to many rooms, and the general flow and options that you have to traverse to at any given time have been largely increased. I also added some fancy railings and pillars that should hopefully spice up the geometry and visuals.
+There is still much to do, but I hope my improvements will make the map way more fun to play!
+
