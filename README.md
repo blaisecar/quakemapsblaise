@@ -29,6 +29,12 @@ and of course cool lighting and effects. I am excited to see how my map continue
 https://www.youtube.com/watch?v=gVLGbJU4Pdo 
 The youtube video exploring the map.
 
-METRICS
+PLAYER FEEDBACK
 
-I personally struggled with this section. The measurment system was a bit confusing to me so I played a lot of the design by ear. May be something I have to change in the future.
+Here I will document some of the feedback that I got from players. 
+Things I should fix are as following
+- Some stairs are broken, need fixing
+- Too many open rooms
+- Map needs better flow, more places to filter into
+- Better gun and ammo placements
+- More halls, more cover
