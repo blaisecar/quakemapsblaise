@@ -53,6 +53,9 @@ More improvements were also made to quality of life stuff.
 ![image](https://github.com/blaisecar/quakemapsblaise/assets/153130544/2c827480-edaf-406b-a1b4-d1401afb2aae)
 The parkour now feels better!
 
+![image](https://github.com/blaisecar/quakemapsblaise/assets/153130544/90f7055a-7957-4ddc-ac8a-56efa3f18b9a)
+As for any improvements, I think more unique rooms like this would be cool, and also continuing to fix flow and wonky geometry will make everything more polished!
+
 Other things such as weirdly placed lava were removed, drops that hurt you now have health pickups where you land, more cover has been added to many rooms, and the general flow and options that you have to traverse to at any given time have been largely increased. I also added some fancy railings and pillars that should hopefully spice up the geometry and visuals.
 There is still much to do, but I hope my improvements will make the map way more fun to play!
 
