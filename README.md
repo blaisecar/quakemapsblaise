@@ -59,3 +59,40 @@ As for any improvements, I think more unique rooms like this would be cool, and 
 Other things such as weirdly placed lava were removed, drops that hurt you now have health pickups where you land, more cover has been added to many rooms, and the general flow and options that you have to traverse to at any given time have been largely increased. I also added some fancy railings and pillars that should hopefully spice up the geometry and visuals.
 There is still much to do, but I hope my improvements will make the map way more fun to play!
 
+PLAYTEST 2
+
+After these changes listed, more playtesting was done. 
+Here are some stats from the first playtest to the second, where a survey was done for each based on numerous things.
+
+"Overall Enjoyment of Map"
+![image](https://github.com/blaisecar/quakemapsblaise/assets/153130544/aecb127b-84c8-4bb2-9017-039501607e17)
+
+"Pickups are positioned to draw players into contested areas and encourage the use of the whole map."
+![image](https://github.com/blaisecar/quakemapsblaise/assets/153130544/24a686d6-4653-42f5-8c68-f23843af6dbd)
+
+Every single stat shows an upward trend, which leads me to believe that the work I have been iterating on the map has been successful in making it more interesting and fun. I hope that in this week's iteration, the data continues to trend upward. I didn't change much layout for the next coming playtest, but I think the new colors and lights will make areas easier to find and make everything more distinguishable.
+
+Texturing
+
+Immersion and Theme
+For the theme of the level, I was vaugely going for a sort of "Evil Church" thing, with stone architecture and mosiac stained glass pillars, combined with red lights and lava.
+Stained Glass Pillars
+![image](https://github.com/blaisecar/quakemapsblaise/assets/153130544/fecf629e-ad21-4f8d-b0c2-7f773dbc9acf)
+
+Usage of Lava and Red Light
+![image](https://github.com/blaisecar/quakemapsblaise/assets/153130544/1308be27-911a-44c5-b7c4-ade9955475ac)
+
+Both of these go to convey the previously mentioned Evil Church type theme, with pretty church-like glass, combined with lava and red lighting, the red lighting emenating from the glass pillars and lava at numerous points in the level. I tried to not put red lighting everywhere as to make it feel more standout in the rooms where it does appear, opting to mostly use torches to add to atmosphere plus some occasional extra light blocks for places the torches were not reaching. I also use the lava lighting to make very stark and dramatic lighting, as some rooms are very dark from certain sides, which I think looks cool and adds to the look. (I made sure not to make those rooms TOO dark, though.)
+
+Guidance and Orientation
+
+For my level, the textures should play a huge part in how the player is guided. I wanted the top floor and the bottom floor to be very distinct from eachother, as the top floor contains lots of greys and blues, and more regular lighting, a huge sky texture, windows, as well as stained glass. These let the player know that they are at the higher point of the level. On the other hand, the bottom floor has much more red lighting, red floors and walls, and more lava, which is to signify that they are lower down. I also added spotlights, to certain items and doorways to make them easy to see, and I used one of the fundamental rules of map design, that floor textures should only change at elevation changes, to signify elevation change and different sections of the map. 
+
+Pillars
+![image](https://github.com/blaisecar/quakemapsblaise/assets/153130544/1a8d6e2c-190e-45f0-943b-219ebfa07e77)
+
+Here, the blue bricks are used when the elevation goes higher, as to help the player differentiate the low ground from high ground, to increase ease of readability and navigation.
+
+
+
+
