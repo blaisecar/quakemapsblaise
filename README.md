@@ -93,6 +93,16 @@ Pillars
 
 Here, the blue bricks are used when the elevation goes higher, as to help the player differentiate the low ground from high ground, to increase ease of readability and navigation.
 
+PLAYTEST 3
+
+I did a final test with the class to get some final helpful thoughts.
+![image](https://github.com/blaisecar/quakemapsblaise/assets/153130544/23937b0c-69a7-442f-9a4f-112f8cf64706)
+Stats of improvement in enjoyment of the map trended upwards here, which is good. 
+
+![image](https://github.com/blaisecar/quakemapsblaise/assets/153130544/60110798-85a2-47d1-934e-9ba485377f03)
+However, most of the stats have actually trended down, purely because I got one player who really did not like my map at all, which was frusturating as my map is defintely better than it was before in all other opinions of those who played it previously.
+The student in question had reasonable criticisms, largely about the map being far too big, which I agree on. However, this would be very hard to actually change at this stage in development, as I would essentially have to redo the map from scratch. However, in level designs in the future, I will keep these thoughts in mind in order to improve. 
+
 
 
 
