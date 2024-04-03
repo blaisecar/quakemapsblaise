@@ -103,6 +103,30 @@ Stats of improvement in enjoyment of the map trended upwards here, which is good
 However, most of the stats have actually trended down, purely because I got one player who really did not like my map at all, which was frusturating as my map is defintely better than it was before in all other opinions of those who played it previously.
 The student in question had reasonable criticisms, largely about the map being far too big, which I agree on. However, this would be very hard to actually change at this stage in development, as I would essentially have to redo the map from scratch. However, in level designs in the future, I will keep these thoughts in mind in order to improve. 
 
+FINAL RELEASE
+
+The map has been finished! The final release is very similar to the previous version, because of two things.
+1. Lack of notable changes to make that would not involve remaking the entire map
+2. My trenchbroom editor textures are broken.
+
+   I was going to add a teleporter to the map, but since the broken textures happened, I was unable to do this. However, I am still happy with how the map came out anyways. The lighting, aesthetic, and overall goal I was going for was a success and I learned a lot as I iterated upon my inital design concept, and I feel I am now a better level designer and understand games better with all the work I did and feedback I got. Here are some final screencaps!
+
+Outdoor Area
+   ![image](https://github.com/blaisecar/quakemapsblaise/assets/153130544/a2f17b5d-5c07-4de3-84e2-a050aeccf0e2)
+
+
+   Many Paths to Traverse!
+   ![image](https://github.com/blaisecar/quakemapsblaise/assets/153130544/ac0a4108-cc98-4c1d-992b-00bc74841b1d)
+
+   View From Below!
+   ![image](https://github.com/blaisecar/quakemapsblaise/assets/153130544/88a9baaf-5728-42e8-86c0-ef41c0af11b2)
+
+
+  https://www.youtube.com/watch?v=kxD56rCvaHQ
+
+  Here is my video showing off the final iteration of the map! I hope to be able to use this as an example of having good concepts of level design in the future!
+
+
 
 
 
